@@ -3,4 +3,7 @@ def fn():
    print(1)
 
 def multiply(x,y):
-	print(x*y) 
+	print(x*y)
+
+def divide(x/y):
+	print(x//y) 
