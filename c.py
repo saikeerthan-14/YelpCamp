@@ -3,7 +3,7 @@ def fn():
    print(1)
 
 def multiply(x,y):
-<<<<<<< HEAD
+# <<<<<<< HEAD
 	print(x*y)
 
 def divide(x,y):
